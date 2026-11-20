@@ -1,0 +1,21 @@
+{
+  "name": "advjavascriptex7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanMacDonald845/AdvJAvaScriptEx7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RyanMacDonald845/AdvJAvaScriptEx7/issues"
+  },
+  "homepage": "https://github.com/RyanMacDonald845/AdvJAvaScriptEx7#readme"
+}
